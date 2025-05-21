@@ -6,7 +6,7 @@ public class Program
     public static async Task Main()
     {
         bool sair = false;
-        Produto p = new Produto(); // Criar uma única instância
+        Produto p = new Produto();
 
         while (!sair)
         {
